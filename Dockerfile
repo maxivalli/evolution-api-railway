@@ -1,1 +1,1 @@
-FROM atendai/evolution-api:v2.0.7
+FROM atendai/evolution-api:v2.2.3
